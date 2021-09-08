@@ -1,0 +1,19 @@
+{
+  "name": "purescript-boilerplate",
+  "version": "1.0.0",
+  "description": "Basic setup for a purescript project",
+  "author": "Konrad Markus <konker@iki.fi>",
+  "license": "CC0-1.0",
+  "repository": "github.com/konker/purescript-boilerplate",
+  "dependencies": {},
+  "devDependencies": {
+    "@rowtype-yoga/prettier-plugin-purescript": "^1.11.1",
+    "prettier": "^2.3.2",
+    "purescript": "^0.14.4",
+    "spago": "^0.20.3"
+  },
+  "scripts": {
+    "run": "spago run",
+    "test": "spago test"
+  }
+}
